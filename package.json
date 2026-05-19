@@ -1,0 +1,21 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "nodemon src/main.js"
+  },
+  "keywords": [],
+  "author": "Proof",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@discordjs/rest": "^2.3.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.93",
+    "discord-html-transcripts": "^3.2.0",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.7"
+  }
+}
